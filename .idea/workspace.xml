@@ -7,20 +7,150 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2fM0Qn8Yx8VSMxSTZQbr9MjdTa4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/oramirez/Documents/GitHub/JavaProblemsInterview/test/com.jgoramirez.problems/arrays&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/com.jgoramirez.problems/arrays" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/com.jgoramirez.problems/jgoramirez/problems" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kunai" />
+      <recent name="com.jgoramirez.tests.problems.strings" />
+      <recent name="com.jgoramirez.tests.problems.linkedlist.doublelist" />
+      <recent name="com.jgoramirez.tests.problems.arrays" />
+      <recent name="com.jgoramirez.tests.problems.gametheory" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jgoramirez.problems.arrays" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.KunaiTest">
+    <configuration name="BaseballTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProblemsInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jgoramirez.tests.problems.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jgoramirez.tests.problems.strings" />
+      <option name="MAIN_CLASS_NAME" value="com.jgoramirez.tests.problems.strings.BaseballTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseballTest.calPoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProblemsInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jgoramirez.tests.problems.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jgoramirez.tests.problems.strings" />
+      <option name="MAIN_CLASS_NAME" value="com.jgoramirez.tests.problems.strings.BaseballTest" />
+      <option name="METHOD_NAME" value="calPoints" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseballTest.calPoints2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProblemsInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jgoramirez.tests.problems.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jgoramirez.tests.problems.strings" />
+      <option name="MAIN_CLASS_NAME" value="com.jgoramirez.tests.problems.strings.BaseballTest" />
+      <option name="METHOD_NAME" value="calPoints2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KunaiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProblemsInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kunai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kunai" />
+      <option name="MAIN_CLASS_NAME" value="com.kunai.KunaiTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KunaiTest.isPar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProblemsInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kunai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kunai" />
+      <option name="MAIN_CLASS_NAME" value="com.kunai.KunaiTest" />
+      <option name="METHOD_NAME" value="isPar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KunaiTest" />
+        <item itemvalue="JUnit.KunaiTest.isPar" />
+        <item itemvalue="JUnit.BaseballTest" />
+        <item itemvalue="JUnit.BaseballTest.calPoints2" />
+        <item itemvalue="JUnit.BaseballTest.calPoints" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,5 +161,25 @@
       <updated>1713595626677</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/jgoramirez/problems/linkedlist/merge/MergeTwoLinkedLists.java</url>
+          <line>22</line>
+          <properties class="com.jgoramirez.problems.linkedlist.merge.Solution" method="mergeTwoListsIterative">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jgoramirez/problems/strings/Baseball.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
